@@ -90,7 +90,10 @@ Default admin:
 
 ## 👩‍💻 Made By
 
-Aarti Patel  
-Contact: aartipatel0427@gmail.com
-Mentor:springboardmentor056@gmail.com
+**Aarti Patel**  
+Contact: [aartipatel0427@gmail.com](mailto:aartipatel0427@gmail.com)
+
+**Mentor:**  
+[springboardmentor056@gmail.com](mailto:springboardmentor056@gmail.com)
+
 
